@@ -8,7 +8,7 @@ Imported.sayoko_SetupCore = true;
 
 var Sayoko = Sayoko || {};
 Sayoko.JPF = Sayoko.JPF || {};
-Sayoko.JPF.version = 0.03;
+Sayoko.JPF.version = 0.04;
 
 /*:
 * @plugindesc Setup Core, needed for this game.
@@ -34,10 +34,5 @@ Some content won´t work if you do that!
 Sayoko.Parameters = PluginManager.parameters('sayoko_SetupCore');
 Sayoko.Param = Sayoko.Param || {};
 
-//function NewVersion() {
 
-   if (Sayoko.JPF.version = 0.03) {
-       console.log('This is new Version of this game! Please download it now')
-   }
-//}
 
